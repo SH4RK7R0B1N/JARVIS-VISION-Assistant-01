@@ -1,4 +1,3 @@
-# JARVIS-VISION-Assistant-01
 
 # JARVIS Vision Assistant - Data
 
